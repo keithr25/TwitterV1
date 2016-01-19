@@ -1,0 +1,473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 2009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 2599,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sni",
+		"selected_items":
+		[
+			[
+				"sni",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"Snipp",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet: d",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet: ed",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"su",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"ins",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '5b468e895e861582c8ac080daaae7722' + 'a0787a887fb19723f006ed5b020ffdf6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/keithr/Desktop/Milestones/Milestone3/jQuery Twitter v1",
+		"/Users/keithr/Desktop/Milestones/Milestone3/jQuery Twitter v1/js"
+	],
+	"file_history":
+	[
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/JavaScript Lessons/Handlebars/main.js",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/keithr/Desktop/Milestones/Milestone3/jQuery Twitter v1/main.js",
+		"/Users/keithr/Desktop/Milestones/Milestone3/jQuery Twitter v1/styles.css",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/Handlebars/index.html",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/User/htmlhandle.sublime-snippet",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/User/handle.sublime-snippet",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/Delegated Events/DelegatedEvents Notes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/Delegated Events/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/Delegated Events/main.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/Delegated Events/ShoppingCart/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/Delegated Events/ShoppingCart/main.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/ShoppingCart/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/Handlebars/main.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone3/Handlebars/handlebarNotes",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/User/handleTemp.sublime-snippet",
+		"/Users/keithr/Desktop/Milestones/Milestone2/JqueryToDoApp/js/myjQueryCrazy.js",
+		"/Users/keithr/Desktop/Milestones/Milestone2/JqueryToDoApp/js/main.js",
+		"/Users/keithr/Desktop/Milestones/Milestone2/JqueryToDoApp/example.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/jQuery/10:5jqueryReview/main.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/jQuery/jQuery Events/jQueryEventNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/User Defined Functions/UDFNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/CSS/Resets/resetNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/jQuery/jQuery Events/main.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/jQuery/jQuery Events/practice/main.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/jQuery/jQuery Events/Exercises/main.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/jQuery/Exercises/main.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/CSS/Homework/index.html",
+		"/Users/keithr/Desktop/Milestones/Milestone2/CSSBasicLayout/index.html",
+		"/Users/keithr/Desktop/PreworkPractice/JavaScript/index.js",
+		"/Users/keithr/Desktop/Phoenix/Lesson Notes/15.6/JavaScript/M2 Review/index.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/Basic Operators/index.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/PreWork/index.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/Data Types/index.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/JavaSriptNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/Data Types/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/Basic Concepts/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/Basic Concepts/JavaSriptNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/Basic Concepts/index.js",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/JavaScript/Basic Concepts/JSbasicNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/CSS/PseudoClassAndElements/pseudoNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/CSS/PseudoClassAndElements/styles.css",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/CSS/PseudoClassAndElements/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/HTML/Form Basics/forms.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/HTML/Form Basics/pizza.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/HTML/Form Basics/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/HTML/Form Basics/formNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/HTML/Forms/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/HTML/Forms/formNotes",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/CSS/Resets/index.html",
+		"/Users/keithr/Desktop/Lesson Notes/Milestone2/CSS/Resets/styles.css",
+		"/Users/keithr/Desktop/Milestones/Milestone1/PHPproductV1/contact.php",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/php/Basic Logic/Logic/index.php",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/php/Basic Logic/index.php",
+		"/Users/keithr/Desktop/Projects/Milestone1/PHPproductV1/index.php",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/keithr/Desktop/Elevator/index.php",
+		"/Users/keithr/Desktop/Projects/Milestone1/PHPproductV1/footer.php",
+		"/Users/keithr/Desktop/Projects/Milestone1/PHPproductV1/header.php",
+		"/Users/keithr/Desktop/Projects/Milestone1/PHPproductV1/css/styles.css",
+		"/Users/keithr/Desktop/Projects/Milestone1/PHPproductV1/products.php",
+		"/Users/keithr/Desktop/Projects/Milestone1/PHPproductV1/contact.php",
+		"/Users/keithr/Desktop/Projects/Milestone1/PHPproductV1/browse.php",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/php/Basic Logic/ifElse.php",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/php/Basic Logic/nestedIfs.php",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/php/Basic Logic/food.php",
+		"/Users/keithr/Desktop/Project1/Milestone1/index.html",
+		"/System/Library/Frameworks/SceneKit.framework/Versions/A/Headers/SCNCamera.h",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/CSS/Defaults/index.html",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/CSS/Defaults/styles.css",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/CSS/CSSnotes.txt",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/CSS/Basic Properties/index.html",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/CSS/Basic Properties/styles.css",
+		"/Users/keithr/Desktop/Lessons/Rockit/Lesson Notes/Milestone 1/CSS/Basic Properties/jweary.jpeg",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/php/Strings/index.php",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/CSS/Thursday LessonNotes",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/php/php.txt",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/php/phpPractice.php",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/php/Strings/string.php",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/CSS/index.html",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/php/Thursday notes",
+		"/Users/keithr/Documents/cssLessons",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/Sublime/Sublime Demo.sublime-project",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/Sublime/Sumblime Commands.txt",
+		"/Users/keithr/.Trash/Sublime Demo.sublime-workspace",
+		"/Users/keithr/Rockit/Lesson Notes/Lesson Notes.sublime-project",
+		"/Users/keithr/Rockit/Lesson Notes/Milestone 1/Terminal Commands",
+		"/Users/keithr/Rockit/Lesson Notes/index.js",
+		"/Users/keithr/Rockit/Lesson Notes/index.html",
+		"/Users/keithr/Rockit/Lesson Notes/index.php",
+		"/Users/keithr/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"taskNum",
+			"addTask",
+			"taskDiv",
+			"content",
+			"dir",
+			"log",
+			"dir",
+			"console",
+			"script",
+			"label",
+			"$something",
+			"this",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1802,
+								1807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 979.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1920,
+								1920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1317,
+								1317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1427.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "Twitterv1.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Lesson Notes/Milestone2/JavaScript/User Defined Functions/UserDefinedFunctions.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

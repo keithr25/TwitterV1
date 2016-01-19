@@ -1,0 +1,15 @@
+{
+  "name": "twitterv1",
+  "version": "1.0.0",
+  "description": "twitter milestone project",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith Rothschadl",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
